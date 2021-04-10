@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/GitHub/SiteDev"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../livlivros"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "IntrodJavaScript"
+	}
+}
